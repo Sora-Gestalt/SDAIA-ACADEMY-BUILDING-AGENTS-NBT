@@ -3,7 +3,7 @@
 **Author:** NAWAF ABDULLAH BINTALEB  
 **Program:** SDAIA Academy Building AI Systems / Agentic Workflows  
 **Cohort Dates:** Spring 2026  
-**Academy:** [SDAIA Academy](https://github.com/SDAIAAcademy)[cite: 1]
+**Academy:** [SDAIA Academy](https://github.com/SDAIAAcademy)
 
 ---
 
